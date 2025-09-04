@@ -1,0 +1,152 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "What is the capital city of Bhutan?",
+      "options": ["Thimphu", "Kathmandu", "Colombo", "Hanoi"],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which element is represented by the symbol 'Sn'?",
+      "options": ["Silver", "Tin", "Nickel", "Sodium"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Tiger", "Lion", "Leopard", "Cheetah"],
+      "answer": 1
+    }
+  ],
+  "medium": [
+    {
+      "id": 1,
+      "question": "Who developed the theory of quarks in particle physics?",
+      "options": ["Richard Feynman", "Murray Gell-Mann", "Niels Bohr", "Paul Dirac"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which desert is known as the 'Empty Quarter'?",
+      "options": ["Kalahari", "Gobi", "Rub' al Khali", "Atacama"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["299,792,458 m/s", "300,000,000 m/s", "299,000,000 m/s", "301,000,000 m/s"],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which programming language was created by Guido van Rossum?",
+      "options": ["Java", "Python", "C++", "JavaScript"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Alps", "Ural Mountains", "Carpathians", "Pyrenees"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the currency of Switzerland?",
+      "options": ["Euro", "Swiss Franc", "Pound", "Dollar"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": 1
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "Which ancient civilization built the city of Teotihuacan?",
+      "options": ["Aztec", "Maya", "Unknown civilization", "Inca"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What was the first programmable computer called?",
+      "options": ["ENIAC", "Colossus", "Z3", "Mark I"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which mathematical concept is the foundation of calculus?",
+      "options": ["Algebra", "Limits", "Geometry", "Trigonometry"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "options": ["Energy conservation", "Position and momentum uncertainty", "Wave-particle duality", "Quantum entanglement"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which algorithm is used for secure data transmission?",
+      "options": ["MD5", "SHA-1", "RSA", "Base64"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the name of the process by which plants convert light energy to chemical energy?",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which theorem states that no three positive integers a, b, and c satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2?",
+      "options": ["Pythagorean Theorem", "Fermat's Last Theorem", "Euler's Theorem", "Gauss's Theorem"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the paradox that questions whether a barber who shaves all men who do not shave themselves shaves himself?",
+      "options": ["Zeno's Paradox", "Russell's Paradox", "Barber Paradox", "Ship of Theseus"],
+      "answer": 2
+    }
+  ]
+}
